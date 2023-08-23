@@ -3090,10 +3090,10 @@
     lodash "^4.17.21"
     ts-dedent "^2.0.0"
 
-"@storybook/addon-ondevice-actions@^6.5.2":
-  version "6.5.4"
-  resolved "https://registry.yarnpkg.com/@storybook/addon-ondevice-actions/-/addon-ondevice-actions-6.5.4.tgz#5f87ffcb5d255bd08b81e044498316fb59476e76"
-  integrity sha512-4ZN+eiYLzeBZyj7B+Ujda7N1pOFm63S8RWrgscjwdka/3+eQ8i0zRRndKeiM7jSBLlhUfd8MyCQ2l6ooScToBg==
+"@storybook/addon-ondevice-actions@^6.5.6":
+  version "6.5.6"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-ondevice-actions/-/addon-ondevice-actions-6.5.6.tgz#a7895a26b3879b9a228e45c7fc9bbf79c677167b"
+  integrity sha512-AgOfcwtzC4TVTN5T7lJ3VQkr0bcbC9j7rKwX/Vr8kne7G4SW6hZEDsfJWfzSLLwrO4NMiCefGXibpTV+IB+T9w==
   dependencies:
     "@storybook/addons" "^6.5.14"
     "@storybook/core-events" "^6.5.14"
